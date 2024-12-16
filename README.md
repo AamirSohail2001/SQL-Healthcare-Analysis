@@ -1,6 +1,6 @@
 # Healthcare data analysis using SQL
 
-#objective: 
+## objective: 
 -Explore and compare patient demographics (e.g., age, gender, location) across different hospitals.
 -Conduct a detailed analysis of hospital revenues, expenditures, and profitability.
 -Analyze year-over-year trends in the occurrence of critical medical conditions.
